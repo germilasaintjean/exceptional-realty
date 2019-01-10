@@ -8,4 +8,4 @@ This is a example site for the Intro to Front_end Web Development Course at the 
 
 #Contact
 
-email : @flatironschool.com
+email : germila@Noukod.com
